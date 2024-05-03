@@ -1,3 +1,5 @@
+package com.scalaessentials
+
 object Functions {
   def function1(input: String, count: Int): String = {
     input + ":" + count
