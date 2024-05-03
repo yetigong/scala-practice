@@ -1,3 +1,5 @@
+package com.scalaessentials
+
 object ValuesAndTypes {
   def main(array: Array[String]): Unit = {
     val number = 15

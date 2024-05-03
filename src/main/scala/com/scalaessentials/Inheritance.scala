@@ -1,3 +1,5 @@
+package com.scalaessentials
+
 object Inheritance {
 
   class Person(val name: String, val age: Int) extends Creature {

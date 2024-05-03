@@ -1,3 +1,5 @@
+package com.scalaessentials
+
 object Lists {
   def convertListToString(input: List[Int], word: String): List[String] = {
     input.map(num => word * num)

@@ -1,3 +1,5 @@
+package com.scalaessentials
+
 object Expressions {
   val mathExpressions = 2 + 3 * 5
 
