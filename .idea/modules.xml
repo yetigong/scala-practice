@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-practice.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-practice-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-practice-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-practice.scala-practice-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-practice.scala-practice-build.iml" />
     </modules>
   </component>
 </project>

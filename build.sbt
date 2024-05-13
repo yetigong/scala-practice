@@ -10,6 +10,6 @@ lazy val root = (project in file("."))
 libraryDependencies += "org.typelevel" %% "cats-kernel" % "2.10.0"
 
 libraryDependencies ++= Seq(
-  "org.creativescala" %% "doodle" % "0.19.0",
+  "org.creativescala" %% "doodle" % "0.21.0",
   "org.scalameta" %% "munit" % "0.7.29" % Test
 )
