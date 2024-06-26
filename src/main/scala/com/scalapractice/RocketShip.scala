@@ -107,5 +107,7 @@ object RocketShip {
   // Run this to see the rocket ship take off!
   @main def toTheStars =
     // animation.run(Frame.default.withSize(200, 800).withBackground(Color.midnightBlue))
-    animation.run(Frame.default)
+//    animation.run(Frame.default)
+    println(16.toHexString)
 }
+
